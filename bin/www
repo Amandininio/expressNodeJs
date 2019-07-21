@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../appdyn');
 var debug = require('debug')('myexpresshbsapp:server');
 var http = require('http');
 
